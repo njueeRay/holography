@@ -5,7 +5,7 @@
 ### 技术调研
 > 下面整合了一些资源与文档，有助于对项目背景与技术纵深的理解
 
-#### Sumamry
+#### Summary
 - [3D Holographic Projection Technology | PDF | Free Download](https://www.slideshare.net/slideshow/3d-holographic-projection-technology-55402572/55402572)
 - [Holographic Projection Technology: The World is Changing](https://arxiv.org/pdf/1006.0846)
 - [2012 - The 3D holographic projection technology based on three-dimensional computer graphics | IEEE Xplore](https://ieeexplore.ieee.org/document/6376651)
